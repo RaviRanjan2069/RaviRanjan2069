@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://mentora-sdlb.onrender.com/app/"><img src="https://img.shields.io/badge/Mentora-Live%20demo-2f62e8?style=for-the-badge&logo=render&logoColor=white" alt="Mentora live demo" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ravirajput200001@gmail.com&su=Hello%20Ravi" title="ravirajput200001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ravi" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ravirajput2069@gmail.com&su=Hello%20Ravi" title="ravirajput2069@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ravi" /></a>
   <a href="https://www.linkedin.com/in/ravi-ranjan-320b56261/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/Raviranjan2069/"><img src="https://img.shields.io/badge/LeetCode-Raviranjan2069-f89f1b?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <img src="https://komarev.com/ghpvc/?username=RaviRanjan2069&style=for-the-badge&color=7c3aed&label=Profile%20views" alt="Profile views" />
