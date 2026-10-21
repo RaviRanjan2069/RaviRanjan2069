@@ -30,38 +30,16 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" height="32" alt="" /> Featured project</h2>
 
-<table>
-<tr>
-<td width="56%" valign="top">
-
-#### [Mentora](https://github.com/RaviRanjan2069/mentora): an AI learning platform
-
-One place for students to learn, practise and track progress, with their teachers.
-
-- **AI tutor:** a full-screen chat that explains step by step
-- **Adaptive practice:** 10-question rounds that get easier or harder and bring back missed topics (800 starter questions, 8 subjects)
-- **Goals & plans:** week-by-week roadmaps that adapt to results
-- **Progress analytics:** line graphs of real results per subject
-- **Teachers:** class codes, subject folders, quizzes and per-question analysis
-- Accounts with email verification, password reset and a help desk
-
-**Stack:** FastAPI · MongoDB Atlas · plain HTML/CSS/JS · GitHub Actions CI · Render
-
-<a href="https://mentora-sdlb.onrender.com/app/"><img src="https://img.shields.io/badge/Open%20live%20demo-2f62e8?style=flat-square&logo=googlechrome&logoColor=white" alt="Open the live demo" /></a>
-<a href="https://github.com/RaviRanjan2069/mentora"><img src="https://img.shields.io/badge/Source%20code-24292f?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
-
-<sub>A demo with synthetic starter content; not evaluated with real learners.</sub>
-
-</td>
-<td width="44%" valign="top">
-
 <a href="https://mentora-sdlb.onrender.com/app/">
-  <img src="./assets/mentora-card.svg" width="100%" alt="Mentora: AI learning platform for students and teachers. Open the live demo." />
+  <img src="./assets/mentora-showcase.svg" width="100%" alt="Mentora, an AI learning platform for students and their teachers: AI tutor, adaptive practice, goals and plans, progress analytics and teacher tools." />
 </a>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://mentora-sdlb.onrender.com/app/"><img src="https://img.shields.io/badge/Open%20live%20demo-2f62e8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the live demo" /></a>
+  <a href="https://github.com/RaviRanjan2069/mentora"><img src="https://img.shields.io/badge/Source%20code-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+  <br />
+  <sub>A demo with synthetic starter content; not evaluated with real learners.</sub>
+</p>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" height="32" alt="" /> Tech Stack</h2>
 
