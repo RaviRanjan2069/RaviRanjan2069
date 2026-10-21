@@ -73,8 +73,8 @@ One place for students to learn, practise and track progress, with their teacher
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RaviRanjan2069&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&border_radius=10&rank_icon=github" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=RaviRanjan2069&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RaviRanjan2069&show_icons=true&theme=github_dark&border_radius=10&rank_icon=github" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=RaviRanjan2069&show_icons=true&border_radius=10&rank_icon=github" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviRanjan2069&layout=compact&theme=github_dark&border_radius=10&langs_count=6" />
