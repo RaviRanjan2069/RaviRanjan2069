@@ -9,12 +9,8 @@
 <p align="center">
   <a href="https://mentora-sdlb.onrender.com/app/"><img src="https://img.shields.io/badge/Mentora-Live%20demo-2f62e8?style=for-the-badge&logo=render&logoColor=white" alt="Mentora live demo" /></a>
   <a href="mailto:ravirajput200001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ravi" /></a>
-  <!-- Add later: replace YOUR-LINKEDIN and remove the comment markers.
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
-  <!-- Add later: replace YOUR-LEETCODE and remove the comment markers.
-  <a href="https://leetcode.com/u/YOUR-LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-Profile-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/ravi-ranjan-320b56261/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Raviranjan2069/"><img src="https://img.shields.io/badge/LeetCode-Raviranjan2069-f89f1b?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <img src="https://komarev.com/ghpvc/?username=RaviRanjan2069&style=for-the-badge&color=7c3aed&label=Profile%20views" alt="Profile views" />
 </p>
 
@@ -91,6 +87,17 @@ One place for students to learn, practise and track progress, with their teacher
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RaviRanjan2069&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D" />
     <img src="https://streak-stats.demolab.com?user=RaviRanjan2069&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
   </picture>
+</p>
+
+### LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/Raviranjan2069/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Raviranjan2069?theme=dark&font=Inter&ext=heatmap&border=1&radius=10" />
+      <img src="https://leetcard.jacoblin.cool/Raviranjan2069?theme=light&font=Inter&ext=heatmap&border=1&radius=10" alt="LeetCode stats for Raviranjan2069" />
+    </picture>
+  </a>
 </p>
 
 ### Contribution activity
