@@ -1,4 +1,4 @@
-"""Write assets/terminal.svg: a terminal window where a short intro types itself, in a loop.
+"""Write assets/terminal-card.svg: a terminal window where a short intro types itself, in a loop.
 
 Plain SVG + SMIL, so it animates inside a GitHub README image. Re-run after editing LINES:
 python scripts/terminal_svg.py
@@ -95,7 +95,7 @@ def build() -> str:
 
 
 if __name__ == "__main__":
-    out = Path(__file__).resolve().parents[1] / "assets" / "terminal.svg"
+    out = Path(__file__).resolve().parents[1] / "assets" / "terminal-card.svg"
     out.parent.mkdir(exist_ok=True)
     out.write_text(build(), encoding="utf-8")
     print("wrote", out)

@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="./assets/ascii-avatar.svg" height="400" alt="ASCII art portrait of Ravi Ranjan, made from the profile photo" />
-  <img src="./assets/terminal.svg" height="400" alt="Terminal: Ravi Ranjan, full-stack and AI developer in Noida; stack Java, Python, JavaScript, Spring Boot, FastAPI, MongoDB; Mentora is live; LeetCode Raviranjan2069." />
+  <img src="./assets/terminal-card.svg" height="400" alt="Terminal: Ravi Ranjan, full-stack and AI developer in Noida; stack Java, Python, JavaScript, Spring Boot, FastAPI, MongoDB; Mentora is live; LeetCode Raviranjan2069." />
 </p>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" height="32" alt="" /> Featured project</h2>
