@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/ascii-avatar.svg" width="460" alt="ASCII art portrait of Ravi Ranjan, made from his profile photo" />
+  <img src="./assets/ascii-avatar.svg" width="460" alt="ASCII art portrait of Ravi Ranjan, made from the profile photo" />
 </p>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" height="32" alt="" /> Featured project</h2>
