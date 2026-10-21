@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:2f62e8,100:7c3aed&height=210&section=header&text=Ravi%20Ranjan&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%2B%20AI%20developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Ravi Ranjan, full-stack and AI developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:2f62e8,100:7c3aed&height=210&section=header&text=Ravi%20Ranjan&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%2B%20AI%20developer&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="Ravi Ranjan, full-stack and AI developer" />
 </p>
 
 <p align="center">
@@ -16,14 +16,18 @@
 
 ---
 
-### About me
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" height="32" alt="" /> About me</h2>
 
 - I build **full-stack web applications and AI-powered tools**, from the database and API to the interface people use.
 - Currently building **[Mentora](https://github.com/RaviRanjan2069/mentora)**, an AI learning platform for students and their teachers.
 - I care about clean APIs, tests that catch real bugs, and products that feel simple.
 - Based in **Noida, India** · Sharda University.
 
-### Featured project
+<p align="center">
+  <img src="./assets/terminal.svg" width="640" alt="Terminal: whoami prints Ravi Ranjan, full-stack and AI developer; the stack is Java, Python, JavaScript, Spring Boot, FastAPI and MongoDB; Mentora is live." />
+</p>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" height="32" alt="" /> Featured project</h2>
 
 <table>
 <tr>
@@ -61,15 +65,45 @@ One place for students to learn, practise and track progress, with their teacher
 </tr>
 </table>
 
-### Tech stack
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" height="32" alt="" /> Tech Stack</h2>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,html,css,js,mongodb,mysql,git,github,githubactions,docker,vscode&perline=13" alt="Java, Spring, Maven, HTML, CSS, JavaScript, MongoDB, MySQL, Git, GitHub, GitHub Actions, Docker, VS Code" />
-  </a>
-</p>
+<div align="center">
 
-### GitHub stats
+<h4 align="center">Languages</h4>
+<table><tr>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br /><sub><b>Java</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br /><sub><b>Python</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+</tr></table>
+
+<h4 align="center">Frontend</h4>
+<table><tr>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br /><sub><b>HTML</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+</tr></table>
+
+<h4 align="center">Backend & Database</h4>
+<table><tr>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br /><sub><b>Spring Boot</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+</tr></table>
+
+<h4 align="center">DevOps & Tools</h4>
+<table><tr>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br /><sub><b>Git</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br /><sub><b>GitHub Actions</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" /><br /><sub><b>Maven</b></sub></td>
+<td align="center" width="104"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br /><sub><b>VS Code</b></sub></td>
+</tr></table>
+
+</div>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="32" height="32" alt="" /> GitHub stats</h2>
 
 <p align="center">
   <picture>
@@ -89,7 +123,7 @@ One place for students to learn, practise and track progress, with their teacher
   </picture>
 </p>
 
-### LeetCode
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32" height="32" alt="" /> LeetCode</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/Raviranjan2069/">
@@ -100,7 +134,7 @@ One place for students to learn, practise and track progress, with their teacher
   </a>
 </p>
 
-### Contribution activity
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32" height="32" alt="" /> Contribution activity</h2>
 
 <p align="center">
   <picture>
@@ -114,6 +148,15 @@ One place for students to learn, practise and track progress, with their teacher
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaviRanjan2069/RaviRanjan2069/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/RaviRanjan2069/RaviRanjan2069/output/github-snake.svg" alt="A snake eating the contribution grid" width="100%" />
   </picture>
+</p>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" height="32" alt="" /> Let's connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravi-ranjan-320b56261/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ravirajput2069@gmail.com&su=Hello%20Ravi" title="ravirajput2069@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/Raviranjan2069/"><img src="https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://mentora-sdlb.onrender.com/app/"><img src="https://img.shields.io/badge/Mentora-2f62e8?style=for-the-badge&logo=render&logoColor=white" alt="Mentora" /></a>
 </p>
 
 <p align="center">

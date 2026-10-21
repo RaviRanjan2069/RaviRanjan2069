@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="290" viewBox="0 0 640 290" role="img" aria-label="Terminal: Ravi Ranjan, full-stack and AI developer">
+<defs><clipPath id="c0"><rect x="22" y="40" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0375;0.0376;0.0581;0.97;1" values="0;0;130.2;194.3;194.3;0"/></rect></clipPath><clipPath id="c1"><rect x="22" y="64" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0800;0.0801;0.0956;0.97;1" values="0;0;0.0;480.7;480.7;0"/></rect></clipPath><clipPath id="c2"><rect x="22" y="88" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.1175;0.1176;0.1622;0.97;1" values="0;0;130.2;255.0;255.0;0"/></rect></clipPath><clipPath id="c3"><rect x="22" y="112" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.1841;0.1842;0.1997;0.97;1" values="0;0;0.0;532.8;532.8;0"/></rect></clipPath><clipPath id="c4"><rect x="22" y="136" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.2216;0.2217;0.2766;0.97;1" values="0;0;130.2;281.1;281.1;0"/></rect></clipPath><clipPath id="c5"><rect x="22" y="160" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.2984;0.2985;0.3141;0.97;1" values="0;0;0.0;359.2;359.2;0"/></rect></clipPath><clipPath id="c6"><rect x="22" y="184" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.3359;0.3360;0.3669;0.97;1" values="0;0;130.2;220.3;220.3;0"/></rect></clipPath><clipPath id="c7"><rect x="22" y="208" height="24" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.3887;0.3888;0.4044;0.97;1" values="0;0;0.0;359.2;359.2;0"/></rect></clipPath></defs>
+<rect x="0.5" y="0.5" width="639" height="289" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="639" height="34" rx="12" fill="#161b22"/>
+<rect x="0.5" y="22" width="639" height="13" fill="#161b22"/>
+<line x1="0" x2="640" y1="35" y2="35" stroke="#30363d"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="320.0" y="22" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12">ravi@github: ~</text>
+<g font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="14">
+<text x="22" y="58" clip-path="url(#c0)"><tspan fill="#4ade80">ravi@github:~$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+<text x="22" y="82" clip-path="url(#c1)"><tspan fill="#9da7b3">Ravi Ranjan · Full-stack + AI developer · Noida, India</tspan></text>
+<text x="22" y="106" clip-path="url(#c2)"><tspan fill="#4ade80">ravi@github:~$ </tspan><tspan fill="#e6edf3">cat stack.txt</tspan></text>
+<text x="22" y="130" clip-path="url(#c3)"><tspan fill="#9da7b3">Java · Python · JavaScript · Spring Boot · FastAPI · MongoDB</tspan></text>
+<text x="22" y="154" clip-path="url(#c4)"><tspan fill="#4ade80">ravi@github:~$ </tspan><tspan fill="#e6edf3">mentora --status</tspan></text>
+<text x="22" y="178" clip-path="url(#c5)"><tspan fill="#7dd3fc">● live  →  mentora-sdlb.onrender.com/app</tspan></text>
+<text x="22" y="202" clip-path="url(#c6)"><tspan fill="#4ade80">ravi@github:~$ </tspan><tspan fill="#e6edf3">echo $NOW</tspan></text>
+<text x="22" y="226" clip-path="url(#c7)"><tspan fill="#9da7b3">Shipping features, one commit at a time.</tspan></text>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.4262;0.4263;0.97;1" values="0;0;1;1;0"/><text x="22" y="250" fill="#4ade80">ravi@github:~$ </text><rect x="154.2" y="237" width="9" height="16" fill="#e6edf3"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</g>
+</svg>
