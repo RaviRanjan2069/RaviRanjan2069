@@ -13,19 +13,24 @@ PROMPT = "ravi@github:~$ "
 # (kind, text): "cmd" lines type after the prompt, "out" lines appear as output
 LINES = [
     ("cmd", "whoami"),
-    ("out", "Ravi Ranjan · Full-stack + AI developer · Noida, India"),
+    ("out", "Ravi Ranjan · Full-stack + AI developer"),
+    ("out", "Noida, India"),
     ("cmd", "cat stack.txt"),
-    ("out", "Java · Python · JavaScript · Spring Boot · FastAPI · MongoDB"),
+    ("out", "Java · Python · JavaScript"),
+    ("out", "Spring Boot · FastAPI · MongoDB"),
     ("cmd", "mentora --status"),
-    ("ok", "● live  →  mentora-sdlb.onrender.com/app"),
+    ("ok", "● live → mentora-sdlb.onrender.com/app"),
+    ("cmd", "leetcode --user"),
+    ("out", "Raviranjan2069"),
     ("cmd", "echo $NOW"),
     ("out", "Shipping features, one commit at a time."),
 ]
 
-W, LINE_H, FONT = 640, 24, 14
+# sized to sit beside the ASCII portrait at the same height
+W, H, LINE_H, FONT = 440, 400, 24, 13
 CHAR_W = FONT * 0.62
-TOP, LEFT = 58, 22
-CYCLE = 16.0  # seconds for the whole loop
+TOP, LEFT = 60, 20
+CYCLE = 18.0  # seconds for the whole loop
 TYPE_PER_CHAR = 0.055
 OUT_TIME = 0.25
 PAUSE = 0.35
@@ -34,7 +39,7 @@ COLOURS = {"prompt": "#4ade80", "cmd": "#e6edf3", "out": "#9da7b3", "ok": "#7dd3
 
 
 def build() -> str:
-    h = TOP + LINE_H * (len(LINES) + 1) + 16
+    h = H
     parts: list[str] = []
     clips: list[str] = []
     t = 0.6

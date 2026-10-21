@@ -24,11 +24,8 @@
 - Based in **Noida, India** · Sharda University.
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="640" alt="Terminal: whoami prints Ravi Ranjan, full-stack and AI developer; the stack is Java, Python, JavaScript, Spring Boot, FastAPI and MongoDB; Mentora is live." />
-</p>
-
-<p align="center">
-  <img src="./assets/ascii-avatar.svg" width="460" alt="ASCII art portrait of Ravi Ranjan, made from the profile photo" />
+  <img src="./assets/ascii-avatar.svg" height="400" alt="ASCII art portrait of Ravi Ranjan, made from the profile photo" />
+  <img src="./assets/terminal.svg" height="400" alt="Terminal: Ravi Ranjan, full-stack and AI developer in Noida; stack Java, Python, JavaScript, Spring Boot, FastAPI, MongoDB; Mentora is live; LeetCode Raviranjan2069." />
 </p>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" height="32" alt="" /> Featured project</h2>
