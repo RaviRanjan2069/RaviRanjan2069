@@ -55,11 +55,8 @@ One place for students to learn, practise and track progress, with their teacher
 </td>
 <td width="44%" valign="top">
 
-<a href="https://github.com/RaviRanjan2069/mentora">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=RaviRanjan2069&repo=mentora&theme=github_dark&hide_border=false&border_radius=10" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaviRanjan2069&repo=mentora&border_radius=10" alt="Mentora repository card" width="100%" />
-  </picture>
+<a href="https://mentora-sdlb.onrender.com/app/">
+  <img src="./assets/mentora-card.svg" width="100%" alt="Mentora: AI learning platform for students and teachers. Open the live demo." />
 </a>
 
 </td>
