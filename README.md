@@ -154,7 +154,7 @@ One place for students to learn, practise and track progress, with their teacher
   <a href="https://www.linkedin.com/in/ravi-ranjan-320b56261/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ravirajput2069@gmail.com&su=Hello%20Ravi" title="ravirajput2069@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/Raviranjan2069/"><img src="https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://mentora-sdlb.onrender.com/app/"><img src="https://img.shields.io/badge/Mentora-2f62e8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI%2BPHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iMTEiIGZpbGw9IiMyZjYyZTgiLz48cGF0aCBkPSJNMTAgMjhWMTNsMTAgOSAxMC05djE1IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMy42IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D" alt="Mentora" /></a>
+  <a href="https://mentora-sdlb.onrender.com/app/"><img src="https://img.shields.io/badge/Mentora-2f62e8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI%2BPHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iMTEiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTAgMjhWMTNsMTAgOSAxMC05djE1IiBmaWxsPSJub25lIiBzdHJva2U9IiMyZjYyZTgiIHN0cm9rZS13aWR0aD0iMy42IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4%3D" alt="Mentora" /></a>
 </p>
 
 <p align="center">
