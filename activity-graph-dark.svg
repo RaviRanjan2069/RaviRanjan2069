@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="139 contributions in the last 31 days">
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, sans-serif; fill: #e6edf3; }
+  .s { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  .axis { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  .grid { stroke: #21262d; stroke-width: 1; }
+  .line { fill: none; stroke: #6b8ff5; stroke-width: 3; stroke-linejoin: round; stroke-linecap: round;
+          stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.4s ease-out .3s forwards; }
+  .area { fill: url(#fade); opacity: 0; animation: show 1s ease 1.8s forwards; }
+  .dot { fill: #6b8ff5; stroke: #0d1117; stroke-width: 2; opacity: 0; animation: show .4s ease forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes show { to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .line, .area, .dot { animation: none; stroke-dashoffset: 0; opacity: 1; } }
+</style>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#6b8ff5" stop-opacity=".28"/><stop offset="1" stop-color="#6b8ff5" stop-opacity="0"/>
+</linearGradient></defs>
+<rect x=".5" y=".5" width="899" height="299" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="34" class="t">Contribution activity</text>
+<text x="876" y="34" text-anchor="end" class="s">139 contributions · 7 active days · last 31 days</text>
+<line x1="56" x2="876" y1="64.0" y2="64.0" class="grid"/><text x="46" y="68.0" text-anchor="end" class="axis">100</text><line x1="56" x2="876" y1="111.5" y2="111.5" class="grid"/><text x="46" y="115.5" text-anchor="end" class="axis">75</text><line x1="56" x2="876" y1="159.0" y2="159.0" class="grid"/><text x="46" y="163.0" text-anchor="end" class="axis">50</text><line x1="56" x2="876" y1="206.5" y2="206.5" class="grid"/><text x="46" y="210.5" text-anchor="end" class="axis">25</text><line x1="56" x2="876" y1="254.0" y2="254.0" class="grid"/><text x="46" y="258.0" text-anchor="end" class="axis">0</text>
+<text x="56.0" y="282" text-anchor="middle" class="axis">01 Oct</text><text x="192.7" y="282" text-anchor="middle" class="axis">06 Oct</text><text x="329.3" y="282" text-anchor="middle" class="axis">11 Oct</text><text x="466.0" y="282" text-anchor="middle" class="axis">16 Oct</text><text x="602.7" y="282" text-anchor="middle" class="axis">21 Oct</text><text x="739.3" y="282" text-anchor="middle" class="axis">26 Oct</text><text x="876.0" y="282" text-anchor="middle" class="axis">31 Oct</text>
+<path d="M56.0,254.0 L83.3,254.0 L110.7,254.0 L138.0,254.0 L165.3,254.0 L192.7,254.0 L220.0,254.0 L247.3,254.0 L274.7,254.0 L302.0,254.0 L329.3,254.0 L356.7,254.0 L384.0,254.0 L411.3,254.0 L438.7,254.0 L466.0,254.0 L493.3,254.0 L520.7,252.1 L548.0,185.6 L575.3,217.9 L602.7,136.2 L630.0,233.1 L657.3,236.9 L684.7,252.1 L712.0,254.0 L739.3,254.0 L766.7,254.0 L794.0,254.0 L821.3,254.0 L848.7,254.0 L876.0,254.0 L876.0,254 L56.0,254 Z" class="area"/>
+<path d="M56.0,254.0 L83.3,254.0 L110.7,254.0 L138.0,254.0 L165.3,254.0 L192.7,254.0 L220.0,254.0 L247.3,254.0 L274.7,254.0 L302.0,254.0 L329.3,254.0 L356.7,254.0 L384.0,254.0 L411.3,254.0 L438.7,254.0 L466.0,254.0 L493.3,254.0 L520.7,252.1 L548.0,185.6 L575.3,217.9 L602.7,136.2 L630.0,233.1 L657.3,236.9 L684.7,252.1 L712.0,254.0 L739.3,254.0 L766.7,254.0 L794.0,254.0 L821.3,254.0 L848.7,254.0 L876.0,254.0" class="line" pathLength="1"/>
+<circle cx="520.7" cy="252.1" r="4" class="dot" style="animation-delay:1.59s"><title>2026-10-18: 1 contributions</title></circle><circle cx="548.0" cy="185.6" r="4" class="dot" style="animation-delay:1.65s"><title>2026-10-19: 36 contributions</title></circle><circle cx="575.3" cy="217.9" r="4" class="dot" style="animation-delay:1.70s"><title>2026-10-20: 19 contributions</title></circle><circle cx="602.7" cy="136.2" r="4" class="dot" style="animation-delay:1.76s"><title>2026-10-21: 62 contributions</title></circle><circle cx="630.0" cy="233.1" r="4" class="dot" style="animation-delay:1.82s"><title>2026-10-22: 11 contributions</title></circle><circle cx="657.3" cy="236.9" r="4" class="dot" style="animation-delay:1.88s"><title>2026-10-23: 9 contributions</title></circle><circle cx="684.7" cy="252.1" r="4" class="dot" style="animation-delay:1.94s"><title>2026-10-24: 1 contributions</title></circle>
+</svg>
